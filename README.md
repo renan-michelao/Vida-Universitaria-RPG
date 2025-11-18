@@ -1,7 +1,7 @@
 # UFSCar: O Desafio do Jubilamento
 Um simulador de vida universitária em C++ com a biblioteca SFML, focado na jornada de um aluno de Ciência da Computação na UFSCar.
 
-![Gameplay Screenshot](gameplay.png)
+![Gameplay Screenshot](./img/gameplay1.png)
 *(Sugestão: Tire um print da tela do jogo e salve como "gameplay.png" no repositório)*
 
 ## 📝 Descrição
